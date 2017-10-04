@@ -1,4 +1,4 @@
-#Exercise 3
+# Exercise 3
 
 Jonathan Kenneson & Kyle Monto
 jkenneson & kwm19
