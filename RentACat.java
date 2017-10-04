@@ -1,3 +1,7 @@
+// Jonathan Kenneson & Kyle Monto
+// jkenneson & kwm19
+// CS1632 Exercise 3
+
 import java.util.ArrayList;
 import java.util.Scanner;
 
